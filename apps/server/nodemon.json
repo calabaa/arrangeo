@@ -1,0 +1,8 @@
+{
+    "execMap": {
+        "ts": "ts-node-esm"
+    },
+    "env": {
+        "NODE_OPTIONS": "--loader ts-node/esm"
+    }
+}
